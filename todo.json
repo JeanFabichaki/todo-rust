@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Remote file todo.json",
+    "completed": false,
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "title": "Priority Todo",
+    "completed": false,
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "title": "Groups todo",
+    "completed": false,
+    "deleted": false
+  },
+  {
+    "id": 4,
+    "title": "Up to Github",
+    "completed": true,
+    "deleted": false
+  }
+]
